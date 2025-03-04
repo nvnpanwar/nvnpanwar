@@ -1,16 +1,12 @@
 <h1 align="center">Hi , I'm Naveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;DS%20|%20Algo%20|%20Development%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>	
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DS%20|%20Algo%20|%20Development%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>	
 </p>
 <div align="center"><img src="https://github.com/Nirav1510/Nirav1510/blob/main/work.gif?raw=true" height=200/></div>
 <hr/>
 <h4 align="center">I am a passionate developer who enjoys the realms of coding, design, innovation, and experimentation. As an enthusiastic and social individual, I thrive on embracing new challenges and acquiring new skills. My love for exchanging ideas and fostering the dissemination of knowledge and positivity fuels my professional journey.</h4>
 <br>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirav1510&label=Profile%20views&color=0e75b6&style=plastic" alt="nirav1510" /> </p> -->
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nirav1510&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nirav1510"/></p>
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nvnpanwar&label=Profile%20views&color=0e75b6&style=plastic" alt="nvnpanwar" /> </p> -->
 
 ## 🛠️ My Skills
 
@@ -76,25 +72,9 @@
      <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
  </p>
 
-## 📊 Github Stats
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nirav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nirav1510&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirav1510&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nirav1510" height="192px"/>
-  <br/>
-
-  </p>
-
-
-<br/>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:gusainirav1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Nirav1510"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nirav-gusai-a4627b1a7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/nirav.gusai.9"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/_nirav_11"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
+	<a href="mailto:nvnpanwar123@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/nvnpanwar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nvnpanwar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>
