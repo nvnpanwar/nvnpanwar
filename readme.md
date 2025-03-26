@@ -1,8 +1,11 @@
 <div align="center">
+  <div>
   <h1>Hi 👋, I'm Naveen</h1>
-  <img src="./code.gif" width="500" height="320" alt="Coding Animation"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F73D93&center=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
+  
+  <img src="./code.gif" width="500" height="320" alt="Coding Animation"/>
+  </div>
 </div>
 <hr/>
 
@@ -29,7 +32,25 @@
   </a>
 </p>
 
-### 🌐 Frontend Development
+### 🌐 App Development
+
+<p align="left">
+
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://developer.android.com/" target="_blank">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  <a href="https://developer.apple.com/ios/" target="_blank">
+    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
+</p>
+
+### 🌐 Web Development
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -47,9 +68,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
@@ -64,11 +82,11 @@
   <a href="https://expressjs.com" target="_blank">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <a href="https://rubyonrails.org/" target="_blank">
+    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   </a>
-  <a href="https://graphql.org" target="_blank">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <a href="https://nestjs.com/" target="_blank">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   </a>
 </p>
 
@@ -119,9 +137,6 @@
   <a href="https://postman.com" target="_blank">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  </a>
 </p>
 
 <!-- ## 🌟 Featured Projects
@@ -152,7 +167,7 @@
   <a href="https://www.linkedin.com/in/nvnpanwar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/nvnpanwar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://leetcode.com/u/nvnpanwar123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
