@@ -150,7 +150,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nvnpanwar&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nvnpanwar&show_icons=true&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats"  />
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nvnpanwar&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
