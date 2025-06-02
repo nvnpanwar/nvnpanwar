@@ -2,7 +2,7 @@
   <div>
   <h1>Hi 👋, I'm Naveen</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F73D93&center=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F73D93&center=true&width=500&lines=React+Native+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
   
   <img src="./code.gif" width="500" height="320" alt="Coding Animation"/>
   </div>
