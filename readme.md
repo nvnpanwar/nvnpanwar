@@ -9,7 +9,7 @@
 </div>
 <hr/>
 
-<h4 align="center">I am a passionate software developer with expertise in full-stack development. I enjoy solving complex problems and building scalable applications. Always eager to learn new technologies and best practices, I thrive in collaborative environments where I can contribute to innovative solutions.</h4>
+<h4 align="center">I am a passionate software developer with expertise in React Native, ReactJs, NextJS, NodeJs etc. I enjoy solving complex problems and building scalable applications. Always eager to learn new technologies and best practices, I thrive in collaborative environments where I can contribute to innovative solutions.</h4>
 
 <br>
 
